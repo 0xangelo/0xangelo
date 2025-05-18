@@ -1,11 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a Move-based fully on-chain perpetuals exchange
+- ⏱️ I've previously worked as both a Move and Rust engineer at Aftermath Finance as [unmaykr-aftermath](https://github.com/unmaykr-aftermath)
+  - See the [Rust SDK](https://github.com/AftermathFinance/aftermath-sdk-rust) previously created and maintained by me
+
 <!--
 **angelolovatto/angelolovatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
